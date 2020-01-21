@@ -1,0 +1,31 @@
+{
+  "name": "tdd-samples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gentlyawesome/tdd-samples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gentlyawesome/tdd-samples/issues"
+  },
+  "homepage": "https://github.com/gentlyawesome/tdd-samples#readme",
+  "devDependencies": {
+    "@types/jest": "^24.9.0",
+    "@types/node": "^13.1.8",
+    "@types/whatwg-fetch": "0.0.33",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.3.0",
+    "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "cross-fetch": "^3.0.4"
+  }
+}
